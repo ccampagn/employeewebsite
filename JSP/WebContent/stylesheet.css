@@ -1,0 +1,322 @@
+@CHARSET "ISO-8859-1";
+#navbar {
+	position:relative;
+    border:none; 
+    padding:8px;
+    background-color: #33CCFF;
+   	margin:0;
+   	width:1500px;
+    white-space: nowrap;
+}
+
+  
+#menu 
+{
+white-space: nowrap;	
+display: inline
+font-weight:bold;
+color:#000000;
+padding:8px;
+text-decoration:none;
+}
+
+#login{
+	position:absolute;
+     width:300px;
+     height:160px;
+	text-align: center;
+	top:200px;
+     left:35%;
+    border:1px solid black;
+    background-color: #33CCFF;
+
+}
+#welcome{
+position:absolute;
+text-align: center;
+top:10px;
+left:35%;
+font-size:40px;
+
+}
+#forgetpassword{
+		position:absolute;
+     width:300px;
+     height:160px;
+	text-align: center;
+	top:20%;
+     left:35%;
+    border:1px solid black;
+    background-color: #33CCFF;
+	
+}
+#changepassword{
+		position:absolute;
+     width:300px;
+     height:160px;
+	text-align: center;
+	top:20%;
+     left:35%;
+    border:1px solid black;
+    background-color: #33CCFF;
+	
+}
+#information{
+		position:absolute;
+     width:400px;
+     height:700px;
+	text-align: center;
+	top:10%;
+     left:35%;
+    border:1px solid black;
+    background-color: #33CCFF;
+	
+}
+#addcompany{
+		position:absolute;
+     width:400px;
+     height:800px;
+	text-align: center;
+	top:10%;
+     left:35%;
+    border:1px solid black;
+    background-color: #33CCFF;
+	
+}
+#addemployee{
+		position:absolute;
+     width:400px;
+     height:800px;
+	text-align: center;
+	top:10%;
+     left:35%;
+    border:1px solid black;
+    background-color: #33CCFF;
+	
+}
+#search{
+	position:absolute;
+     width:100%;
+     height:100px;
+	text-align: justify;
+	top:50px;
+      left:5px;
+     rightt:5px;
+    border:1px solid black;
+    background-color: #33CCFF;
+
+}
+#directory{
+	position:absolute;
+     width:auto;
+     height:auto;
+	text-align: center;
+	top:160px;
+     left:5px;
+     rightt:5px;
+    border:1px solid black;
+    background-color: #33CCFF;
+
+}
+#profile{
+		position:absolute;
+     width:400px;
+     height:800px;
+	text-align: center;
+	top:10%;
+     left:35%;
+    border:1px solid black;
+    background-color: #33CCFF;
+	
+}
+#email{
+	position:absolute;
+     width:300px;
+     height:160px;
+	text-align: center;
+	top:200px;
+     left:35%;
+    border:1px solid black;
+    background-color: #33CCFF;
+
+}
+#torupdate{
+	position:absolute;
+     width:500px;
+     height:200px;
+	text-align: center;
+	top:50px;
+      left:5%;
+   
+    border:1px solid black;
+    background-color: #33CCFF;
+
+}
+#tor{
+		position:absolute;
+     width:480px;
+     height:auto;
+	text-align: center;
+	top:300px;
+     left:5%;
+    border:1px solid black;
+    background-color: #33CCFF;
+
+}
+#searchtor {
+position: absolute;
+width: auto;
+height: auto;
+text-align: left;
+top: 50px;
+left: 5%;
+border: 1px solid black;
+background-color: #33CCFF;
+}
+#torlist{
+	position: absolute;
+width: auto;
+height: auto;
+text-align: left;
+top: 120px;
+left: 5%;
+border: 1px solid black;
+background-color: #33CCFF;
+	}
+	#availshiftsearch{
+	position: absolute;
+width: auto;
+height: auto;
+text-align: left;
+top: 50px;
+left: 5%;
+border: 1px solid black;
+background-color: #33CCFF;
+	}
+		#availshift{
+	position: absolute;
+width: auto;
+height: auto;
+text-align: left;
+top: 120px;
+left: 5%;
+border: 1px solid black;
+background-color: #33CCFF;
+	}
+	#scheduleemployee{
+	position: absolute;
+	width: auto;
+height: auto;
+text-align: left;
+top: 150px;
+left: 5%;
+border: 1px solid black;
+background-color: #33CCFF;
+	
+	}
+		#schedule{
+	position: absolute;
+width: auto;
+height: auto;
+text-align: left;
+top: 220px;
+left: 5%;
+border: 1px solid black;
+background-color: #33CCFF;
+	
+	
+	}
+	
+	#break{
+	position: absolute;
+width: auto;
+height: auto;
+text-align: left;
+top: 300px;
+left: 5%;
+border: 1px solid black;
+background-color: #33CCFF;
+	
+	
+	}
+		#attendance{
+	position: absolute;
+width: auto;
+height: auto;
+text-align: left;
+top: 150px;
+left: 300px;
+border: 1px solid black;
+background-color: #33CCFF;
+	
+	
+	}
+	#message{
+		position: absolute;
+width: auto;
+height: auto;
+text-align: left;
+top: 100px;
+left: 100px;
+border: 1px solid black;
+background-color: #33CCFF;
+	
+	
+	}
+		#newstories{
+		position: absolute;
+width: auto;
+height: auto;
+text-align: left;
+top: 100px;
+left: 800px;
+border: 1px solid black;
+background-color: #33CCFF;
+	
+	
+	}
+		#messagereply{
+		position: absolute;
+width: auto;
+height: auto;
+text-align: left;
+top: 200px;
+left: 35%;
+border: 1px solid black;
+background-color: #33CCFF;
+	
+	
+	}
+			#story{
+		position: absolute;
+width: 90%;
+height: auto;
+text-align: left;
+top: 200px;
+left: 5%;
+border: 1px solid black;
+background-color: #33CCFF;
+	
+	
+	}
+	#title{
+position:absolute;
+text-align: center;
+top:50px;
+left:35%;
+font-size:40px;
+
+}
+
+#schedulebar{
+	position:absolute;
+     width:auto;
+     height:auto;
+	text-align: center;
+	top:50px;
+     left:0px;
+    background-color: #33CCFF;
+    padding:8px;
+
+}		
+}
